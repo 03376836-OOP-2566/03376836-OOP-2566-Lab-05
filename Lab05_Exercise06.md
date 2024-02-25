@@ -1,36 +1,31 @@
-# Lab 5 Exercise 4
+# Lab 5 Exercise 6
 
-## Fields declaration and initialization
+## Method with parameter 
 
 
 1. สร้าง console application project
 
 ```
-dotnet new console --name Lab05_Ex04
+dotnet new console --name Lab05_Ex06
 ```
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
-var myObj = new MyClass();
-
-System.Console.WriteLine($"Default integer      F1 = {myObj.F1}");  //Implicit fields initialization
-System.Console.WriteLine($"Default string       F2 = {myObj.F2}");
-System.Console.WriteLine($"Initialized integer  F3 = {myObj.F3}");  //Explicit field initialization
-System.Console.WriteLine($"Initialized string   F4 = {myObj.F4}");
-
+var mc = new MyClass();
+mc.DisplayParam(3, 4);
 class MyClass
 {
-    public int F1;
-    public string F2;
-    public int F3 = 100;
-    public string F4 = "ASDF";
+    public void DisplayParam(int a, int b)
+    {
+        System.Console.WriteLine($"a = {a}, b = {b}");
+    } 
 }
 ```
 
 3. Build project โดยการใช้คำสั่ง
 
 ```
-dotnet build  Lab05_Ex04
+dotnet build  Lab05_Ex06
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
@@ -38,7 +33,7 @@ dotnet build  Lab05_Ex04
 5. Run project โดยการใช้คำสั่ง
 
 ```
-dotnet run --project Lab05_Ex04
+dotnet run --project Lab05_Ex06
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 4
