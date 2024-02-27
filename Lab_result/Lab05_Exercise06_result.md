@@ -12,4 +12,8 @@
 
 ## อธิบายสิ่งที่พบในการทดลอง 
 
-โปรแกรมจะแสดงผล a = 3, b = 4 เพราะการกำหนด Method ด้วย parameter จาก mc.DisplayParam(3, 4); 
+โปรแกรมจะแสดงผล a = 3, b = 4 เพราะการกำหนด Method ด้วย parameter จากเรียกใช้ DisplayParam 
+
+var mc = new MyClass();
+
+mc.DisplayParam(3, 4);
