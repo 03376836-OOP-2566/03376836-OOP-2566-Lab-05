@@ -9,3 +9,7 @@
 ![](/Pictures/pic-12.png)
 
 โปรแกรมสามารถ Run ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
+
+## อธิบายสิ่งที่พบในการทดลอง 
+
+โปรแกรมจะแสดงผล a = 3, b = 4 เพราะการกำหนด Method ด้วย parameter จาก mc.DisplayParam(3, 4); 
