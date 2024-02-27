@@ -9,3 +9,9 @@
 ![](/Pictures/pic-14.png)
 
 โปรแกรมสามารถ Run ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
+
+## อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล 2+3 = 5 , 2*3= 6 มีการเรียกใช้ method จาก add และ multiply 
+
+และ return ค่ากลับไปให้ int a , int b 
