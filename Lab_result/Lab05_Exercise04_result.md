@@ -10,3 +10,9 @@
 ![pic](/Pictures/pic-8.png)
 
 โปรแกรมสามารถ Run ได้ปกติโดยจะแสดงผลตาม Type ค่าที่กำหนด ถ้าไม่ได้กำหนดจะเป็น 0 หรือ null
+
+## อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล F1 = 0 F2 = null ตามชนิด Type เป็น Implicit fields initialization เพราะไม่ได้กำหนดค่า
+
+โปรแกรมจะแสดงผล F3 = 100 F4 = ASDF ตามชนิด Type เป็น Explicit field initialization เพราะกำหนดค่า
