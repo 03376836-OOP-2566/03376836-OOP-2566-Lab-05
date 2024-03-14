@@ -1,6 +1,7 @@
 ## บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![Uploading Screenshot 2024-03-14 143145.png…]()
+![Screenshot 2024-03-14 143145](https://github.com/Phetteepop/03376836-OOP-2566-Lab-05/assets/144197367/ed984c0e-0569-4b0d-ae11-b5a1b411587a)
+
 
 
 โปรแกรมสามารถ Build ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
