@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\bin\Debug\net8.0\Lab05_Ex08.exe
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\bin\Debug\net8.0\Lab05_Ex08.deps.json
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\bin\Debug\net8.0\Lab05_Ex08.runtimeconfig.json
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\bin\Debug\net8.0\Lab05_Ex08.dll
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\bin\Debug\net8.0\Lab05_Ex08.pdb
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.AssemblyInfo.cs
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.sourcelink.json
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.dll
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\refint\Lab05_Ex08.dll
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.pdb
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\Lab05_Ex08.genruntimeconfig.cache
+C:\Users\admin\Downloads\Fluk lnwza007\03376836-OOP-2566-Lab-05\0028\Lab05_Ex08\obj\Debug\net8.0\ref\Lab05_Ex08.dll
