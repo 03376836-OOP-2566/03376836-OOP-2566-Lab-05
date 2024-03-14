@@ -1,13 +1,15 @@
 ## บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![Screenshot 2024-03-14 143040](https://github.com/Phetteepop/03376836-OOP-2566-Lab-05/assets/144197367/f9dde26b-a85c-4a89-88d2-e1a1dc6aa49f)
+![Screenshot 2024-03-14 142834](https://github.com/Phetteepop/03376836-OOP-2566-Lab-05/assets/144197367/ec9c8eef-a966-4969-9f57-c18ce2f69a24)
+
 
 
 โปรแกรมสามารถ Build ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
 
 ##  บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![Screenshot 2024-03-14 143101](https://github.com/Phetteepop/03376836-OOP-2566-Lab-05/assets/144197367/87e43025-0949-465f-937d-efa63b1cda4b)
+![Screenshot 2024-03-14 142859](https://github.com/Phetteepop/03376836-OOP-2566-Lab-05/assets/144197367/bd092ebd-1d99-4509-ac06-4e22bb935b22)
+
 
 
 โปรแกรมสามารถ Run ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
