@@ -8,6 +8,8 @@
 ```
 dotnet new console --name Lab05_Ex08
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/c6742f69-710f-49ba-9dd1-355ac04e365d)
+
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
@@ -31,6 +33,7 @@ public static class Calculator
     }
 }
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/0b10addd-0111-4446-b114-2e63c292518a)
 
 3. Build project โดยการใช้คำสั่ง
 
@@ -39,6 +42,7 @@ dotnet build  Lab05_Ex08
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/35355795-a36d-488c-9abd-821d49a6e9f1)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -47,6 +51,7 @@ dotnet run --project Lab05_Ex08
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/059d133c-195f-44b8-a961-c73446178b72)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
