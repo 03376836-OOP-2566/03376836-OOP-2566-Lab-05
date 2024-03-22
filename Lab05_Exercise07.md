@@ -8,6 +8,8 @@
 ```
 dotnet new console --name Lab05_Ex07
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/32105e59-e48a-4b0b-8499-2e2100bf179f)
+
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
@@ -32,6 +34,7 @@ class MyProgram
     }
 }
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/4bf2d4ad-664a-430f-8778-36367091908a)
 
 3. Build project โดยการใช้คำสั่ง
 
@@ -40,6 +43,7 @@ dotnet build  Lab05_Ex07
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/afc47485-6307-433b-979a-25c8ebea0f4e)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -48,6 +52,7 @@ dotnet run --project Lab05_Ex07
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/ba0eba77-61f7-44ef-adf8-df72cb7b65d6)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
