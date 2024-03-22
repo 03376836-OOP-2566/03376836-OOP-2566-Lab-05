@@ -67,6 +67,9 @@ dotnet run --project Lab05_Ex03
 การแสดงผลตามภาพด้านบน
 
 Type of p is Person
+
 p.name = Rambo    type = System.String
+
 p.id = 1987    type = System.String
+
 p.income = 2500    type = System.Int32
