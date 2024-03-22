@@ -28,19 +28,20 @@ class Person
 ```
 dotnet build  Lab05_Ex01
 ```
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/c82df72a-437c-438e-bb96-caf7338eb9be)
+
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/c82df72a-437c-438e-bb96-caf7338eb9be)
 
 5. Run project โดยการใช้คำสั่ง
 
 ```
 dotnet run --project Lab05_Ex01
 ```
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/20a90819-1745-40ed-a87c-c10f9a2d9d2e)
+
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-05/assets/144197034/20a90819-1745-40ed-a87c-c10f9a2d9d2e)
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
