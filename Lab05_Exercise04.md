@@ -35,6 +35,9 @@ dotnet build  Lab05_Ex04
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="701" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-05/assets/144195963/9fc579b2-f152-4a0b-a628-ae0d15a6191f">
+
+
 5. Run project โดยการใช้คำสั่ง
 
 ```
@@ -43,7 +46,9 @@ dotnet run --project Lab05_Ex04
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="497" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-05/assets/144195963/22167945-d97a-4329-92d1-d425b3823639">
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
-
+โปรแกรมจะแสดงผล F1 = 0 F2 = null ตามชนิด Type เป็น Implicit fields initialization เพราะไม่ได้กำหนดค่า
+โปรแกรมจะแสดงผล F3 = 100 F4 = ASDF ตามชนิด Type เป็น Explicit field initialization เพราะกำหนดค่า
