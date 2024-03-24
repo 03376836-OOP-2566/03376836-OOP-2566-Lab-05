@@ -34,6 +34,8 @@ dotnet build  Lab05_Ex04
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="797" alt="Screenshot 2024-03-24 145007" src="https://github.com/SuphawadiP/03376836-OOP-2566-Lab-05/assets/144196049/70079c7c-d591-4316-96a5-11a78ee565cc">
+โปรแกรมสามารถ Build ได้ แต่โปรแกรมจะแจ้ง ไม่ได่ระบุค่า int F1 กับ string F2 จะให้เป็น ค่า 0 หรือ null แทนเป็น ค่าเริ่มต้น
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -42,8 +44,9 @@ dotnet run --project Lab05_Ex04
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+<img width="799" alt="Screenshot 2024-03-24 145044" src="https://github.com/SuphawadiP/03376836-OOP-2566-Lab-05/assets/144196049/7dd53d2f-e6ed-4992-bfd3-ce817b890247">
+โปรแกรมสามารถ Run ได้ปกติโดยจะแสดงผลตาม Type ค่าที่กำหนด ถ้าไม่ได้กำหนดจะเป็น 0 หรือ null
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
-
+โปรแกรมจะแสดงผล F1 = 0 F2 = null ตามชนิด Type เป็น Implicit fields initialization เพราะไม่ได้กำหนดค่าและโปรแกรมจะแสดงผล F3 = 100 F4 = ASDF ตามชนิด Type เป็น Explicit field initialization เพราะกำหนดค่า
