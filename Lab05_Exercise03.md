@@ -35,7 +35,8 @@ dotnet build  Lab05_Ex03
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-05/assets/144195555/346c91ae-161c-4c38-afb1-3644e3725fd3)
+### โปรแกรมสามารถ Build ได้เพราะในส่วนของ class (field) ได้กำหนด public ในการเข้าถึง
 5. Run project โดยการใช้คำสั่ง
 
 ```
@@ -43,8 +44,9 @@ dotnet run --project Lab05_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-05/assets/144195555/9e3fbaff-b81c-41d9-b985-a168c8ba7435)
+### โปรแกรมสามารถ Run ได้เพราะในส่วนของ class (field) ได้กำหนด public ในการเข้าถึง
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+### โปแกรมจะแสดงผลค่าที่เรากำหนดเข้าไปเช่น p.name=Rambo พร้อมระบุชนิด Type ตามลำดับ
 
