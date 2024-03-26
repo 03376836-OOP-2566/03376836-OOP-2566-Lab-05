@@ -40,6 +40,7 @@ dotnet build  Lab05_Ex07
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/79ee0e48-497e-4c31-b814-2ac4b5f87e34)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -48,8 +49,10 @@ dotnet run --project Lab05_Ex07
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/9ed760f8-048f-4dc7-9137-e8f81e701b9f)
 
 
-7. อธิบายสิ่งที่พบในการทดลอง
+7. อธิบายสิ่งที่พบในการทดลอง โปรแกรมจะแสดงผล 2+3 = 5, 2*3= 6 มีการเรียกใช้ method จาก add และ multiply 
+และ return ค่ากลับไปให้ int a , int b 
 
 

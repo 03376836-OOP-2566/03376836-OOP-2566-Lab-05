@@ -35,6 +35,8 @@ dotnet build  Lab05_Ex03
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+   ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/be3e9815-dd79-467b-b506-9764046404ba)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -43,8 +45,10 @@ dotnet run --project Lab05_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+   ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/fcd47f67-25f0-496c-b6ed-a1111f49bd66)
 
 
-7. อธิบายสิ่งที่พบในการทดลอง
 
+8. อธิบายสิ่งที่พบในการทดลอง
+โปแกรมจะแสดงผลค่าที่เรากำหนดเข้าไปเช่น p.name=Rambo พร้อมระบุชนิด Type ตามลำดับ 
 

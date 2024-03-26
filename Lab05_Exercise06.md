@@ -29,6 +29,7 @@ dotnet build  Lab05_Ex06
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/ce66552e-c1b9-4a95-b3f1-6880bfbca1cf)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -37,8 +38,9 @@ dotnet run --project Lab05_Ex06
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/d1d3e78a-bd95-4397-a937-afd50e41f9c3)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+โปรแกรมจะแสดงผล a = 3, b = 4 เพราะการกำหนด Method ด้วย parameter จากเรียกใช้ DisplayParam
 

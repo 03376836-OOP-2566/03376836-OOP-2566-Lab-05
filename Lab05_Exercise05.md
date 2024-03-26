@@ -39,6 +39,7 @@ dotnet build  Lab05_Ex05
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/2f9cd33d-c20c-4372-9579-91811b3dcb6a)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -47,8 +48,12 @@ dotnet run --project Lab05_Ex05
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-05/assets/144195708/e89d3fd6-36af-4d72-ac1e-2825c15f1a68)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
+   โปรแกรมจะแสดงผล F1 = 0 F2 = null ตามชนิด Type เป็น Implicit fields initialization เพราะไม่ได้กำหนดค่าส่วนโปรแกรมจะแสดงผล F3 = 100 F4 = ASDF ตามชนิด Type เป็น Explicit field initialization เพราะกำหนดค่า
+    นอกจากนี้ยัมีมีการกำหนด Method  คือ myObj.Info() ผลลัพธ์ที่ได้จากการเรียก myObj.Info() จะแสดงค่าเริ่มต้นและค่าที่ถูกกำหนดไว้ใน field ต่าง ๆ 
+
 
 
