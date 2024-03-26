@@ -38,7 +38,8 @@ public static class Calculator
 dotnet build  Lab05_Ex08
 ```
 
-4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/a5feec83-4a1f-4c1d-967c-c20accb7e271)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -47,8 +48,10 @@ dotnet run --project Lab05_Ex08
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/a92f0487-5afe-4abf-b8fa-6c70e718624d)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
+   - มีการสร้างclass calculator ที่มีmethodคือ add(int a , int b ) และ multiply(int a , int b) เพื่อทำกาารบวกและคูณกัน 
 
 
