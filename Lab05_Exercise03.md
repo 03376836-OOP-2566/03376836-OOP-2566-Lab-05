@@ -43,8 +43,10 @@ dotnet run --project Lab05_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/f9929bba-4dcb-4629-95f0-6e3084e47a6e)
+
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+- มีการสร้าง object ของclass person และมีการกำหนดค่าให้กับ field 
 
