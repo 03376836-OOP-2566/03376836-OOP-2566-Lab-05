@@ -33,7 +33,8 @@ class MyClass
 dotnet build  Lab05_Ex04
 ```
 
-4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/c7bec59d-12a1-4c8c-9e36-6c99ac700446) -เตือนwarning
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -42,7 +43,7 @@ dotnet run --project Lab05_Ex04
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/051c327d-f55e-4fd8-b8ca-d474199db3f0)
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/5aee45f2-a260-49f6-8c4b-5755e8884e7a)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
