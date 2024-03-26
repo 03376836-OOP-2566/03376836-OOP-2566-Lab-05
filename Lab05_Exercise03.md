@@ -34,7 +34,8 @@ class Person
 dotnet build  Lab05_Ex03
 ```
 
-4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/2a1c9f79-5aab-4c4b-9ea8-92bcd04c390c)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -43,7 +44,7 @@ dotnet run --project Lab05_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/f9929bba-4dcb-4629-95f0-6e3084e47a6e)
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/383c33c4-fb0d-47b1-bab9-10d41ee98c44)
 
 
 
