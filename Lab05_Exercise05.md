@@ -38,7 +38,8 @@ class MyClass
 dotnet build  Lab05_Ex05
 ```
 
-4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/699ba15c-4c0a-4dc9-bfb0-13a7abf2a466)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -46,9 +47,10 @@ dotnet build  Lab05_Ex05
 dotnet run --project Lab05_Ex05
 ```
 
-6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5 ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-05/assets/144195611/508aa99d-8455-4e80-9460-fa9b79a15dcf)
+
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+- มีการสร้าง object ของclass MyClassและเรียกใช้ method Info() เพื่อแสดงผลลัพธ์การเข้าถึง field 
 
